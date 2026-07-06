@@ -31,4 +31,4 @@ Any changes to this policy will be posted at this URL with an updated date.
 
 ## Contact
 
-If you have questions about this policy or the extension, contact: **[your-email@example.com]**
+If you have questions about this policy or the extension, please log an issue in the repo
